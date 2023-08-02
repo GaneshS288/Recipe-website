@@ -1,0 +1,22 @@
+body {
+    background-color: darkgray;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+}
+
+li {
+    background-color: lightseagreen;
+    color: whitesmoke;
+    padding: 20px;
+    margin: 20px;
+}
